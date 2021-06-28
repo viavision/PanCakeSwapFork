@@ -15023,10 +15023,10 @@ walletlink@^2.0.2:
     preact "^10.3.3"
     rxjs "^6.5.4"
 
-waltor-uikit@^1.1.5:
-  version "1.1.5"
-  resolved "https://registry.yarnpkg.com/waltor-uikit/-/waltor-uikit-1.1.5.tgz#20eb522985daf6f32c2ae7e17aefc8d1a752e4f4"
-  integrity sha512-GZbBNHIXn+dzSog4t3cB5yoDBm+VFp1toGeckr+kxEf4/lBtlsaDJbht0IeiqQdlrJySR6UYallfCjnh/9UzIg==
+waltor-uikit@^1.1.6:
+  version "1.1.6"
+  resolved "https://registry.yarnpkg.com/waltor-uikit/-/waltor-uikit-1.1.6.tgz#63b63bdef4921ffd8f9c910b1d281bf1f1588701"
+  integrity sha512-wcFpwxQrhIelwO7Gubk7qQI7CkdSlVIvXpq+rReRbfMICNou1Wxm9kJSEPNzysnAKiC4LI5nn2dkLPnnzskmXw==
   dependencies:
     "@popperjs/core" "^2.9.2"
     "@types/lodash" "^4.14.168"
