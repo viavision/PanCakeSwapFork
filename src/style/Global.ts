@@ -24,6 +24,6 @@ const GlobalStyle = createGlobalStyle`
     color: ${({ theme }) => theme.colors.primary};
     margin-right: 8px;
   }
-`
+`;
 
 export default GlobalStyle

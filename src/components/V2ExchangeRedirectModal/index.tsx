@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import styled from 'styled-components'
-import { Modal, Text, Link, Button, Flex, Heading } from '@pancakeswap-libs/uikit'
+import { Modal, Text, Link, Button, Flex, Heading } from 'waltor-uikit'
 
 const defaultOnDismiss = () => null
 

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Box, Flex, Text, PancakeToggle, useMatchBreakpoints } from '@pancakeswap-libs/uikit'
+import { Box, Flex, Text, PancakeToggle, useMatchBreakpoints } from 'waltor-uikit'
 import { useAudioModeManager } from 'state/user/hooks'
 
 type AudioSettingModalProps = {
