@@ -10,27 +10,27 @@ const config: MenuEntry[] = [
     label: 'Trade',
     icon: 'TradeIcon',
     initialOpenState: true,
-    status: {
-      text: 'MIGRATE',
-      color: 'warning',
-    },
+    // status: {
+    //   text: 'MIGRATE',
+    //   color: 'warning',
+    // },
     items: [
-      {
-        label: 'LP Migration',
-        href: '/migrate',
-      },
+      // {
+      //   label: 'LP Migration',
+      //   href: '/migrate',
+      // },
       {
         label: 'Exchange',
-        href: 'https://exchange.pancakeswap.finance/#/swap',
+        href: '/swap',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.pancakeswap.finance/#/pool',
-      },
-      {
-        label: 'V1 Liquidity (Old)',
         href: '/pool',
       },
+      // {
+      //   label: 'V1 Liquidity (Old)',
+      //   href: '/pool',
+      // },
     ],
   },
   {
